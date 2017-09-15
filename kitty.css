@@ -1,0 +1,20 @@
+body{
+	background-color:black;
+	background-image: url(images/gif.gif); 
+}
+@media screen and (max-width: 340px) {  
+img {
+	content:url(images/kitten-small.png);
+}	
+.loaf {
+	content:url(images/kittyloaf.gif);
+}
+}
+@media screen and (min-width: 475px) {  
+img {
+	content:url(images/kitten-medium.png);
+}
+@media screen and (min-width: 675px) {
+img {
+	content:url(images/kitten-large.png);
+}
