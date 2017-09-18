@@ -1,18 +1,18 @@
 body{
 	background-color:black;
-	background-image: url(images/gifhttps://user-images.githubusercontent.com/26975066/30505906-7ae194a0-9a2c-11e7-8d87-d490edf74da9.gif.gif); 
+	background-image: url(images/gif.gif); 
 }
 @media screen and (max-width: 340px) {  
 img {
-	content:url(images/https://user-images.githubusercontent.com/26975066/30562016-ee1b6922-9c71-11e7-8055-c084ec68bbb8.png.png);
+	content:url(images/kitten-small.png);
 }	
 .loaf {
-	content:url(images/(https://user-images.githubusercontent.com/26975066/30562495-7a39bf8e-9c73-11e7-9e26-93c0ff1107cd.gif.gif);
+	content:url(images/kittyloaf.gif);
 }
 }
 @media screen and (min-width: 475px) {  
 img {
-	content:url(images/(https://user-images.githubusercontent.com/26975066/30562565-bb03e882-9c73-11e7-8ce4-da9f07f08518.png.png);
+	content:url(images/kitten-medium.png);
 }
 @media screen and (min-width: 675px) {
 img {
