@@ -1,6 +1,6 @@
 body{
 	background-color:black;
-	background-image: url(https://user-images.githubusercontent.com/26975066/30716421-d465aea2-9ece-11e7-965b-45355a1eb391.png); 
+	background-image: url(); 
 }
 @media screen and (max-width: 340px) {  
 img {
@@ -12,9 +12,9 @@ img {
 }
 @media screen and (min-width: 475px) {  
 img {
-	content:url(images/kitten-medium.png);
+	content:url(https://user-images.githubusercontent.com/26975066/30716472-05a01ff2-9ecf-11e7-9584-c41b77cba5a6.png);
 }
 @media screen and (min-width: 675px) {
 img {
-	content:url(images/kitten-large.png);
+	content:url(https://user-images.githubusercontent.com/26975066/30716421-d465aea2-9ece-11e7-965b-45355a1eb391.png);
 }
